@@ -6,7 +6,7 @@ public class App {
 
         JFrame fenetre = new JFrame("Calculatrice");
         fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        fenetre.setSize(300,390);
+        fenetre.setSize(310,400);
         fenetre.setLocationRelativeTo(null);
 
         JMenuBar barreMenu = new JMenuBar();
