@@ -112,7 +112,7 @@ public class App {
 
         JPanel blockDroite = new JPanel(new GridLayout());
         JButton boutonEgal = new JButton("=");
-        blockDroite.add(boutonEgal, BorderLayout.CENTER);
+        blockDroite.add(boutonEgal);
         blockBas.add(blockDroite);
 
         fenetre.setVisible(true);

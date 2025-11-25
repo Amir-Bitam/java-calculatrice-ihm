@@ -98,7 +98,7 @@ L’idée principale est d’utiliser des **layouts imbriqués** au lieu de posi
    ```
 2. Compiler :
    ```bash
-   javac App.java
+   javac src/App.java
    ```
 3. Lancer :
    ```bash
